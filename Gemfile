@@ -67,3 +67,5 @@ group :test do
 end
 
 gem "devise", "~> 4.9"
+
+gem "solargraph", "~> 0.50.0"
